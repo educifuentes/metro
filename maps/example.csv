@@ -1,0 +1,10 @@
+name,adj,color
+A,B,
+B,C,
+C,D;G,
+D,E,
+E,F,
+F,,
+G,H,green
+H,I,red
+I,F,green
